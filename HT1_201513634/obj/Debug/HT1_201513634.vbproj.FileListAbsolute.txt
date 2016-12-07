@@ -1,0 +1,2 @@
+c:\users\ee-jimenez\documents\visual studio 2015\Projects\HT1_201513634\HT1_201513634\bin\Debug\HT1_201513634.exe.config
+C:\Users\EE-JIMENEZ\Documents\Edilson\Vacaciones diciembre 2016\IPC2\HT1\IPC2VD1\HT1_201513634\HT1_201513634\bin\Debug\HT1_201513634.exe.config
